@@ -160,6 +160,27 @@ const app = {
       path: "./music/TrenTinhBanDuoiTinhYeu.mp3",
       image:"./image/TrenTinhBanDuoiTinhYeu.jpg"
     }
+    ,
+    {
+      name: "Free Loop",
+      singer: "Daniel Powter",
+      path: "./music/Free Loop - Daniel Powter.mp3",
+      image:"./image/3625.jpg"
+    }
+    ,
+    {
+      name: "Let Me Down Slowly",
+      singer: "Mễ Tiểu Túng Kelly",
+      path: "./music/Let Me Down Slowly - Me Tieu Tung Kelly.mp3",
+      image:"./image/129017.jpg"
+    }
+    ,
+    {
+      name: "I'm Not Her",
+      singer: "Clara Mae",
+      path: "./music/I_m Not Her - Clara Mae.mp3",
+      image:"./image/1519359829120_640.jpg"
+    }
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
