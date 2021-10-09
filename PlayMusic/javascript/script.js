@@ -190,6 +190,13 @@ const app = {
     }    
     ,
     {
+      name: "Sứ Thanh Hoa Remix",
+      singer: "吴 光 腾",
+      path: "./music/SuThanhHoa.mp3",
+      image:"./image/artworks-Dp9oAQulu3yBicAd-RKADnA-t500x500.jpg"
+    }    
+    ,
+    {
       name: "I'm Not Her",
       singer: "Clara Mae",
       path: "./music/I_m Not Her - Clara Mae.mp3",
