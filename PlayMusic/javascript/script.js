@@ -131,7 +131,7 @@ const app = {
       image:"./image/JSOL & HOÀNG DUYÊN-SÀI GÒN HÔM NAY MƯA.jpg"
     },
     {
-      name: "Chàng Trai Nhệt Huyết 105°C (熱愛105°C的你)",
+      name: "Chàng Trai Nhệt Huyết 105°C",
       singer: "A Tứ",
       path: "./music/Nhiet Tam 1050C Cua Cau 1050C.mp3",
       image:"./image/Nhiet Tam 1050C Cua Cau 1050C.jpg"
@@ -173,7 +173,21 @@ const app = {
       singer: "Mễ Tiểu Túng Kelly",
       path: "./music/Let Me Down Slowly - Me Tieu Tung Kelly.mp3",
       image:"./image/129017.jpg"
-    }
+    }    
+    ,
+    {
+      name: "Walk Thru Fire",
+      singer: "Vicetone; Meron Ryan",
+      path: "./music/Walk Thru Fire - Vicetone_ Meron Ryan.mp3",
+      image:"./image/1533518669570_640.jpg"
+    }    
+    ,
+    {
+      name: "Wrap Me In Plastic",
+      singer: "Chromance",
+      path: "./music/Wrap Me In Plastic - Chromance.mp3",
+      image:"./image/638959065.jpg"
+    }    
     ,
     {
       name: "I'm Not Her",
