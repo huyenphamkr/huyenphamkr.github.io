@@ -194,7 +194,14 @@ const app = {
       singer: "吴 光 腾",
       path: "./music/SuThanhHoa.mp3",
       image:"./image/artworks-Dp9oAQulu3yBicAd-RKADnA-t500x500.jpg"
-    }    
+    }
+    ,
+    {
+      name: "Gặp em đúng lúc",
+      singer: "吴 光 腾",
+      path: "./music/GapEmDungLucVietnameseCover-ThaiQuynh-5849067.mp3",
+      image:"./image/8589f89c0260f4c03fe8b4822e096297.jpg"
+    }     
     ,
     {
       name: "I'm Not Her",
