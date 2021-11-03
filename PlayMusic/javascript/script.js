@@ -1,6 +1,3 @@
-// Một số bài hát có thể bị lỗi do liên kết bị hỏng. Vui lòng thay thế liên kết khác để có thể phát
-// Some songs may be faulty due to broken links. Please replace another link so that it can be played
-
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
 
@@ -200,6 +197,20 @@ const app = {
       name: "Gặp em đúng lúc",
       singer: "吴 光 腾",
       path: "./music/GapEmDungLucVietnameseCover-ThaiQuynh-5849067.mp3",
+      image:"./image/8589f89c0260f4c03fe8b4822e096297.jpg"
+    }     
+    ,
+    {
+      name: "No Roots",
+      singer: "Alice Merton",
+      path: "./music/No Roots - Alice Merton.mp3",
+      image:"./image/8589f89c0260f4c03fe8b4822e096297.jpg"
+    }     
+    ,
+    {
+      name: "Lone Ranger",
+      singer: "Rachel Platten",
+      path: "./music/Lone Ranger - Rachel Platten.mp3",
       image:"./image/8589f89c0260f4c03fe8b4822e096297.jpg"
     }     
     ,
